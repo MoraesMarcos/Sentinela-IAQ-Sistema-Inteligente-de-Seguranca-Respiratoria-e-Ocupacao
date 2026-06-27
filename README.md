@@ -68,11 +68,19 @@ Coleta contínua e local de:
 
 ---
 
-## 📐 Diagrama do Circuito
+## 📸 Imagens do Projeto
 
-![Diagrama do circuito Sentinela IAQ](./circuit_diagram.png)
+### Hardware Físico
 
-> *Montagem completa com ESP32, DHT22, PIR, MQ-135, LCD I2C e buzzer.*
+<img width="653" height="467" alt="image" src="https://github.com/user-attachments/assets/0f6a5551-08ef-40d1-8801-d72c4cc5387d" />
+
+> *Montagem real com ESP32, DHT22, HC-SR04 (ultrassônico) e MQ-135 em protoboard.*
+
+### Dashboard Web (Interface no Navegador)
+
+<img width="401" height="592" alt="image" src="https://github.com/user-attachments/assets/f8b3b3b3-756a-4b6b-ab29-52ad925b3309" />
+
+> *Interface acessada pelo celular ou computador via Wi-Fi local. Exibe lotação, temperatura, umidade, CO₂ e o Score de Segurança em tempo real.*
 
 ---
 
