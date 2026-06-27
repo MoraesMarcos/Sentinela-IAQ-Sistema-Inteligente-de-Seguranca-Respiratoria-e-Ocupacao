@@ -1,0 +1,1 @@
+# Sentinela-IAQ-Sistema-Inteligente-de-Seguran-a-Respirat-ria-e-Ocupa-o
